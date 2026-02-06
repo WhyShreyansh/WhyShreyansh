@@ -25,7 +25,7 @@ I enjoy building things, experimenting with ideas, and working end-to-end on pro
 
 ### 🌐 Web Development
 - Strong experience with **HTML, CSS, JavaScript**
-- Building interactive and scalable UIs using **React.js**
+- Building interactive user interfaces using React.js
 - Backend development using **Node.js**
 - Developing full-stack applications with **MongoDB + Node.js**
 
