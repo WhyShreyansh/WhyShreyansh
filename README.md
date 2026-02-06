@@ -84,7 +84,6 @@ I enjoy building things, experimenting with ideas, and working **end-to-end on p
 
 ---
 
----
 
 ## 🎯 What I'm Looking For
 - Opportunities to work on **challenging and impactful projects**
