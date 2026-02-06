@@ -82,8 +82,8 @@ I enjoy building things, experimenting with ideas, and working end-to-end on pro
 ---
 
 ## 📫 Get in Touch
-- 📧 Email: *add your email here*
-- 💼 LinkedIn: *add your LinkedIn link*
+- 📧 Email: *shreyanshdev88@gmail.com*
+
 
 ---
 
