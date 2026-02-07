@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Welcome to my coding space 🚀
+Welcome to my coding space 🚀 [Kaizenist]
 </p>
 
 ---
